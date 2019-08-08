@@ -59,7 +59,9 @@ h2{
 	
 	display: flex;
 	justify-content: center;
+	margin: 0 auto; 
 	animation: up 1s;
+
 }
 
 @keyframes up{
