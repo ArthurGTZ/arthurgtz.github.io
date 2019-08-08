@@ -55,8 +55,8 @@ h2{
 
 
 
-#mc-embedded-subscribe{
-	border: 1px solid white;
+.clear{
+	
 	display: flex;
 	justify-content: center;
 	margin: 0 auto; 
